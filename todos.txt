@@ -1,0 +1,4 @@
+1. Adding Pony testing code and come up with a testing system for two_sum
+2. Solve for solutions 2 and 3
+
+Finish all two_sum examples
